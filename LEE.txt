@@ -1,0 +1,9 @@
+~Code Created By Kayy
+
+IMPORTANTE: Inicia Descargar.exe una vez hecho se habrán descargado todas las imagenes y podrás iniciar el bot
+
+
+- NO ELIMINES tbd.png
+- Si quieres cambiar el logo solo pon una imagen que con el nombre logo.png
+- Si por alguna razón en tu checker hay Skins que no existen y se pone una imagen ramdon ve a Skins.txt y pon todos los IDs de todos los objetos desde https://docs.google.com/spreadsheets/d/1gVDgnzNyMCafIWa-dBO3mgNUHmHzgA9O5sWbfQy2Yfg/edit?gid=0#gid=0 (Recomiendo hacerlo cada actualización) Despues de poner todos los IDs y guardar abre "Descargar.exe" y una ves todas las imagenes se hayan descargado tu checker se habrá arreglado
+- Todos los errores que aparecen al princio al iniciar el bot no son errores, ignoralo son solo respuestas de la API
